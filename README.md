@@ -1,3 +1,8 @@
+# Họ và tên: Quang Trung Hiếu
+# MSV: B25DCCC069
+
+
+
 # Bài Tập Quản Lý Học Phí Sinh Viên (Java OOP)
 
 Repository chứa lời giải chi tiết cho 4 câu bài tập thực hành môn Lập trình Hướng đối tượng (Java), tuân thủ đầy đủ các chuẩn:
